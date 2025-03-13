@@ -1,1 +1,1 @@
-# COM-7003
+# Introduction to machine learning
