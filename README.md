@@ -1,12 +1,12 @@
 # 📊 Predicting Bank Customer Churn Using Traditional vs. Advanced Machine Learning Models
 
-## 📌 Overview
+## Overview
 Customer churn, where customers stop using a bank's services, leads to **financial losses** and **customer retention challenges**. This project compares **Traditional Machine Learning models** (Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting) with **Deep Learning (Artificial Neural Networks - ANN)** to predict and mitigate churn effectively.
 
-## 🚀 Project Goals
-- 📌 **Analyze** a structured bank churn dataset with **115,640 customer records**.
-- 📌 **Compare traditional ML models vs. ANN** in predicting churn.
-- 📌 **Evaluate model fairness, explainability, and ethical concerns** in churn prediction.
+##  Project Goals
+-  **Analyze** a structured bank churn dataset with **115,640 customer records**.
+-  **Compare traditional ML models vs. ANN** in predicting churn.
+-  **Evaluate model fairness, explainability, and ethical concerns** in churn prediction.
 
 ## 📂 Dataset
 - **Source:** Kaggle (Synthetic bank churn dataset)
@@ -38,12 +38,12 @@ Customer churn, where customers stop using a bank's services, leads to **financi
 | Gradient Boosting     | 100%        | 100%         | 100%       | 100%        |
 | ANN                  | 99%         | 98%          | 98%        | 98%         |
 
-📌 **Observations:**
+ **Observations:**
 - **Tree-based models (DT, RF, GB) had perfect accuracy** but may be **overfitting**.
 - **Logistic Regression struggled with recall (81%)**, meaning some churners were missed.
 - **ANN performed well (99%)** and provided better generalization.
 
-## 📌 Ethical Considerations
+##  Ethical Considerations
 - **Bias & Fairness:** Checked for data imbalance to avoid unfair predictions.
 - **GDPR Compliance:** Anonymized customer data to protect privacy.
 
@@ -55,10 +55,10 @@ Customer churn, where customers stop using a bank's services, leads to **financi
 ## 📜 Acknowledgments
 This project was structured with the assistance of **ChatGPT** for content refinement and **Canva** for visual presentations. AI tools were used to improve explanations, generate diagrams, and streamline model evaluation. All generated content was **validated for accuracy** and **aligned with research objectives**.
 
-## 📌 Future Work
-- 📌 Implement **Explainable AI (XAI)** to improve model interpretability.
-- 📌 Explore **more deep learning models** for better performance.
-- 📌 Apply the model on **real-world bank customer data**.
+##  Future Work
+- Implement **Explainable AI (XAI)** to improve model interpretability.
+- Explore **more deep learning models** for better performance.
+- Apply the model on **real-world bank customer data**.
 
 ---
 
